@@ -1,0 +1,3 @@
+"""
+Endpoint tests package initialization
+"""
